@@ -1,0 +1,32 @@
+[
+    {
+        "varianta":"original",
+        "medie":36.8,
+        "std":19.4,
+        "saturati_%":0.29
+    },
+    {
+        "varianta":"luminos (+80)",
+        "medie":116.8,
+        "std":19.4,
+        "saturati_%":0.0
+    },
+    {
+        "varianta":"contrast x2.5",
+        "medie":92.0,
+        "std":48.5,
+        "saturati_%":0.29
+    },
+    {
+        "varianta":"gamma 0.5",
+        "medie":92.4,
+        "std":28.8,
+        "saturati_%":0.29
+    },
+    {
+        "varianta":"gamma 0.4",
+        "medie":112.3,
+        "std":29.2,
+        "saturati_%":0.29
+    }
+]

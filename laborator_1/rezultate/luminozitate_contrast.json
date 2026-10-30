@@ -1,0 +1,50 @@
+[
+    {
+        "varianta":"original",
+        "medie":122.6,
+        "std":64.6,
+        "saturati_%":0.28
+    },
+    {
+        "varianta":"luminos (+60)",
+        "medie":179.2,
+        "std":59.6,
+        "saturati_%":15.76
+    },
+    {
+        "varianta":"intunecat (-60)",
+        "medie":68.4,
+        "std":56.6,
+        "saturati_%":21.73
+    },
+    {
+        "varianta":"contrast x1.6",
+        "medie":176.3,
+        "std":79.3,
+        "saturati_%":33.41
+    },
+    {
+        "varianta":"contrast x0.6",
+        "medie":73.5,
+        "std":38.8,
+        "saturati_%":0.22
+    },
+    {
+        "varianta":"contrast x1.6 -80",
+        "medie":125.7,
+        "std":82.7,
+        "saturati_%":8.49
+    },
+    {
+        "varianta":"gamma 0.5",
+        "medie":168.8,
+        "std":52.6,
+        "saturati_%":0.28
+    },
+    {
+        "varianta":"gamma 2.0",
+        "medie":75.3,
+        "std":63.9,
+        "saturati_%":1.73
+    }
+]

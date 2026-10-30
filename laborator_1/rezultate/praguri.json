@@ -1,0 +1,102 @@
+[
+    {
+        "gradient":0.0,
+        "metoda":"global 127",
+        "F1":0.947
+    },
+    {
+        "gradient":0.0,
+        "metoda":"Otsu",
+        "F1":0.959
+    },
+    {
+        "gradient":0.0,
+        "metoda":"adaptiv medie",
+        "F1":0.933
+    },
+    {
+        "gradient":0.0,
+        "metoda":"adaptiv gauss",
+        "F1":0.957
+    },
+    {
+        "gradient":0.2,
+        "metoda":"global 127",
+        "F1":0.966
+    },
+    {
+        "gradient":0.2,
+        "metoda":"Otsu",
+        "F1":0.967
+    },
+    {
+        "gradient":0.2,
+        "metoda":"adaptiv medie",
+        "F1":0.935
+    },
+    {
+        "gradient":0.2,
+        "metoda":"adaptiv gauss",
+        "F1":0.957
+    },
+    {
+        "gradient":0.4,
+        "metoda":"global 127",
+        "F1":0.964
+    },
+    {
+        "gradient":0.4,
+        "metoda":"Otsu",
+        "F1":0.264
+    },
+    {
+        "gradient":0.4,
+        "metoda":"adaptiv medie",
+        "F1":0.937
+    },
+    {
+        "gradient":0.4,
+        "metoda":"adaptiv gauss",
+        "F1":0.958
+    },
+    {
+        "gradient":0.6,
+        "metoda":"global 127",
+        "F1":0.331
+    },
+    {
+        "gradient":0.6,
+        "metoda":"Otsu",
+        "F1":0.231
+    },
+    {
+        "gradient":0.6,
+        "metoda":"adaptiv medie",
+        "F1":0.939
+    },
+    {
+        "gradient":0.6,
+        "metoda":"adaptiv gauss",
+        "F1":0.958
+    },
+    {
+        "gradient":0.8,
+        "metoda":"global 127",
+        "F1":0.23
+    },
+    {
+        "gradient":0.8,
+        "metoda":"Otsu",
+        "F1":0.219
+    },
+    {
+        "gradient":0.8,
+        "metoda":"adaptiv medie",
+        "F1":0.942
+    },
+    {
+        "gradient":0.8,
+        "metoda":"adaptiv gauss",
+        "F1":0.958
+    }
+]

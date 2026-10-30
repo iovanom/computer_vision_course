@@ -1,0 +1,134 @@
+[
+    {
+        "iluminare":"original",
+        "dB":0.0,
+        "dG":0.0,
+        "dR":0.0,
+        "dH":0.0,
+        "dS":0.0,
+        "dV":0.0,
+        "IoU_RGB":0.922,
+        "IoU_HSV":0.944
+    },
+    {
+        "iluminare":"gamma 0.6",
+        "dB":21.6,
+        "dG":26.1,
+        "dR":41.5,
+        "dH":0.5,
+        "dS":32.7,
+        "dV":21.6,
+        "IoU_RGB":0.007,
+        "IoU_HSV":0.197
+    },
+    {
+        "iluminare":"gamma 0.8",
+        "dB":10.5,
+        "dG":12.6,
+        "dR":19.3,
+        "dH":0.3,
+        "dS":15.6,
+        "dV":10.5,
+        "IoU_RGB":0.407,
+        "IoU_HSV":0.885
+    },
+    {
+        "iluminare":"gamma 1.25",
+        "dB":12.4,
+        "dG":14.6,
+        "dR":20.4,
+        "dH":0.2,
+        "dS":17.5,
+        "dV":12.4,
+        "IoU_RGB":0.522,
+        "IoU_HSV":0.954
+    },
+    {
+        "iluminare":"gamma 1.6",
+        "dB":28.4,
+        "dG":33.0,
+        "dR":43.5,
+        "dH":0.5,
+        "dS":39.0,
+        "dV":28.4,
+        "IoU_RGB":0.01,
+        "IoU_HSV":0.944
+    },
+    {
+        "iluminare":"gamma 2.0",
+        "dB":44.8,
+        "dG":51.5,
+        "dR":63.5,
+        "dH":1.0,
+        "dS":59.5,
+        "dV":44.8,
+        "IoU_RGB":0.0,
+        "IoU_HSV":0.929
+    },
+    {
+        "iluminare":"luminozitate x0.5",
+        "dB":98.2,
+        "dG":91.3,
+        "dR":61.7,
+        "dH":0.3,
+        "dS":0.7,
+        "dV":98.2,
+        "IoU_RGB":0.0,
+        "IoU_HSV":0.958
+    },
+    {
+        "iluminare":"luminozitate x0.75",
+        "dB":49.4,
+        "dG":45.9,
+        "dR":31.1,
+        "dH":0.2,
+        "dS":0.5,
+        "dV":49.4,
+        "IoU_RGB":0.001,
+        "IoU_HSV":0.951
+    },
+    {
+        "iluminare":"luminozitate x1.2",
+        "dB":38.8,
+        "dG":36.0,
+        "dR":24.2,
+        "dH":0.1,
+        "dS":0.3,
+        "dV":38.8,
+        "IoU_RGB":0.039,
+        "IoU_HSV":0.904
+    },
+    {
+        "iluminare":"supraexpunere x1.4",
+        "dB":57.4,
+        "dG":67.3,
+        "dR":48.7,
+        "dH":4.3,
+        "dS":12.8,
+        "dV":57.4,
+        "IoU_RGB":0.006,
+        "IoU_HSV":0.281
+    },
+    {
+        "iluminare":"lumina calda 8%",
+        "dB":16.1,
+        "dG":0.0,
+        "dR":9.4,
+        "dH":7.2,
+        "dS":24.5,
+        "dV":13.2,
+        "IoU_RGB":0.801,
+        "IoU_HSV":0.061
+    },
+    {
+        "iluminare":"lumina rece 8%",
+        "dB":15.2,
+        "dG":0.0,
+        "dR":10.3,
+        "dH":3.2,
+        "dS":24.0,
+        "dV":15.2,
+        "IoU_RGB":0.374,
+        "IoU_HSV":0.816
+    }
+]

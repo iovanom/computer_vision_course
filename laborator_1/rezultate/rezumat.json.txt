@@ -1,0 +1,38 @@
+[
+    {
+        "indicator":"micsorare: cel mai bun PSNR \/ SSIM",
+        "valoare":"AREA \/ AREA"
+    },
+    {
+        "indicator":"marire: cel mai bun PSNR \/ SSIM",
+        "valoare":"LANCZOS4 \/ LANCZOS4"
+    },
+    {
+        "indicator":"marire: cea mai rapida \/ cea mai lenta",
+        "valoare":"NEAREST \/ LANCZOS4"
+    },
+    {
+        "indicator":"luminozitate: varianta cu cei mai multi pixeli saturati",
+        "valoare":"contrast x1.6 (33.41%)"
+    },
+    {
+        "indicator":"segmentare culoare: IoU mediu RGB \/ HSV",
+        "valoare":"0.257 \/ 0.735"
+    },
+    {
+        "indicator":"segmentare culoare: IoU minim RGB \/ HSV",
+        "valoare":"0.000 \/ 0.061"
+    },
+    {
+        "indicator":"praguri: F1 mediu (cea mai buna metoda)",
+        "valoare":"adaptiv gauss (0.958)"
+    },
+    {
+        "indicator":"praguri: F1 minim (cea mai slaba metoda)",
+        "valoare":"Otsu (0.219)"
+    },
+    {
+        "indicator":"video: fps procesare \/ fps clip",
+        "valoare":"2184 \/ 30"
+    }
+]
